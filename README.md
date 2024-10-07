@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm platformer</h1>
 <h3 align="center">Hello, I’m a dispassionate and uncaring beginner web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pltfomr&label=Profile%20views&color=0e75b6&style=flat" alt="pltfomr" /> </p>
-
 - 🌱 I’m currently learning **CSS and JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
