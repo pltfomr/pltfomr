@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm platformer</h1>
-<h3 align="center">I’m a dispassionate and uncaring beginner web developer.</h3>
+<h3 align="center">I’m a dispassionate uncaring beginner web developer.</h3>
 
 - 🌱 I’m currently learning **CSS and JavaScript.**
 
